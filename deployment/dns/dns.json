@@ -4,7 +4,7 @@
     {
       "Action": "CREATE",
       "ResourceRecordSet": {
-        "Name": "myapp123.student24.courseandlabs.com",
+        "Name": "myapp123.student13.courseandlabs.com",
         "Type": "CNAME",
         "TTL": 1000,
         "ResourceRecords": [
